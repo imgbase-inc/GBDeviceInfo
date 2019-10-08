@@ -273,6 +273,10 @@
                 // Mini 4
                 @[@5, @1]: @[@(GBDeviceModeliPadMini4), @"iPad Mini 4", @(GBDeviceDisplay7p9Inch), @326],
                 @[@5, @2]: @[@(GBDeviceModeliPadMini4), @"iPad Mini 4", @(GBDeviceDisplay7p9Inch), @326],
+                
+                // Mini 5
+                @[@11, @1]: @[@(GBDeviceModeliPadMini5), @"iPad Mini 5", @(GBDeviceDisplay7p9Inch), @326],
+                @[@11, @2]: @[@(GBDeviceModeliPadMini5), @"iPad Mini 5", @(GBDeviceDisplay7p9Inch), @326],
 
                 // Air 2
                 @[@5, @3]: @[@(GBDeviceModeliPadAir2), @"iPad Air 2", @(GBDeviceDisplay9p7Inch), @264],
@@ -305,6 +309,11 @@
                 // iPad 7th Gen 10.2-inch, 2019
                 @[@7, @11]: @[@(GBDeviceModeliPad7), @"iPad 7th Gen (10.2 inch, WiFi)", @(GBDeviceDisplay10p2Inch), @264],
                 @[@7, @12]: @[@(GBDeviceModeliPad7), @"iPad 7th Gen (10.2 inch, WiFi+Cellular)", @(GBDeviceDisplay10p2Inch), @264],
+                
+                // iPad Air 3rd Gen, 2019
+                @[@11, @3]: @[@(GBDeviceModeliPadAir3), @"iPad Air 3rd Gen (10.5 inch, WiFi)", @(GBDeviceDisplay10p5Inch), @264],
+                @[@11, @4]: @[@(GBDeviceModeliPadAir3), @"iPad Air 3rd Gen (10.5 inch, WiFi+Cellular)", @(GBDeviceDisplay10p5Inch), @264],
+                
 
                 // iPad Pro 3rd Gen 11-inch, 2018
                 @[@8, @1]: @[@(GBDeviceModeliPadPro11p), @"iPad Pro 3rd Gen (11 inch, WiFi)", @(GBDeviceDisplay11pInch), @264],
