@@ -301,6 +301,10 @@
                 // iPad 6th Gen, 2018
                 @[@7, @5]: @[@(GBDeviceModeliPad6), @"iPad 2018", @(GBDeviceDisplay9p7Inch), @264],
                 @[@7, @6]: @[@(GBDeviceModeliPad6), @"iPad 2018", @(GBDeviceDisplay9p7Inch), @264],
+                
+                // iPad 7th Gen 10.2-inch, 2019
+                @[@7, @11]: @[@(GBDeviceModeliPad7), @"iPad 7th Gen (10.2 inch, WiFi)", @(GBDeviceDisplay10p2Inch), @264],
+                @[@7, @12]: @[@(GBDeviceModeliPad7), @"iPad 7th Gen (10.2 inch, WiFi+Cellular)", @(GBDeviceDisplay10p2Inch), @264],
 
                 // iPad Pro 3rd Gen 11-inch, 2018
                 @[@8, @1]: @[@(GBDeviceModeliPadPro11p), @"iPad Pro 3rd Gen (11 inch, WiFi)", @(GBDeviceDisplay11pInch), @264],
@@ -316,7 +320,7 @@
 
                 // iPad Pro 3rd Gen 12.9-inch 1TB, 2018
                 @[@8, @6]: @[@(GBDeviceModeliPadPro12p9Inch31TB), @"iPad Pro 3rd Gen (12.9 inch, 1TB, WiFi)", @(GBDeviceDisplay12p9Inch), @264],
-                @[@8, @8]: @[@(GBDeviceModeliPadPro12p9Inch31TB), @"iPad Pro 3rd Gen (12.9 inch, 1TB, WiFi+Cellular)", @(GBDeviceDisplay12p9Inch), @264],
+                @[@8, @8]: @[@(GBDeviceModeliPadPro12p9Inch31TB), @"iPad Pro 3rd Gen (12.9 inch, 1TB, WiFi+Cellular)", @(GBDeviceDisplay12p9Inch), @264]
             },
             @"iPod": @{
                 // 1st Gen
@@ -338,7 +342,7 @@
                 @[@7, @1]: @[@(GBDeviceModeliPod6), @"iPod Touch 6", @(GBDeviceDisplay4Inch), @326],
                 
                 // 7th Gen
-                @[@9, @1]: @[@(GBDeviceModeliPod6), @"iPod Touch 7", @(GBDeviceDisplay4Inch), @326],
+                @[@9, @1]: @[@(GBDeviceModeliPod6), @"iPod Touch 7", @(GBDeviceDisplay4Inch), @326]
             },
         };
         
