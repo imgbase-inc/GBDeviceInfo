@@ -228,7 +228,10 @@
                 // 11
                 @[@12, @1]: @[@(GBDeviceModeliPhone11), @"iPhone 11", @(GBDeviceDisplay6p1Inch), @458],
                 @[@12, @3]: @[@(GBDeviceModeliPhone11Pro), @"iPhone 11 Pro", @(GBDeviceDisplay5p8Inch), @458],
-                @[@12, @5]: @[@(GBDeviceModeliPhone11ProMax), @"iPhone 11 Pro Max", @(GBDeviceDisplay6p5Inch), @458]
+                @[@12, @5]: @[@(GBDeviceModeliPhone11ProMax), @"iPhone 11 Pro Max", @(GBDeviceDisplay6p5Inch), @458],
+
+                // SE (2nd)
+                @[@12, @8]: @[@(GBDeviceModeliPhoneSE2), @"iPhone SE (2nd)", @(GBDeviceDisplay4p7Inch), @326]
             },
             @"iPad": @{
                 // 1
@@ -329,7 +332,15 @@
 
                 // iPad Pro 3rd Gen 12.9-inch 1TB, 2018
                 @[@8, @6]: @[@(GBDeviceModeliPadPro12p9Inch31TB), @"iPad Pro 3rd Gen (12.9 inch, 1TB, WiFi)", @(GBDeviceDisplay12p9Inch), @264],
-                @[@8, @8]: @[@(GBDeviceModeliPadPro12p9Inch31TB), @"iPad Pro 3rd Gen (12.9 inch, 1TB, WiFi+Cellular)", @(GBDeviceDisplay12p9Inch), @264]
+                @[@8, @8]: @[@(GBDeviceModeliPadPro12p9Inch31TB), @"iPad Pro 3rd Gen (12.9 inch, 1TB, WiFi+Cellular)", @(GBDeviceDisplay12p9Inch), @264],
+
+                // iPad Pro 2nd Gen 11-inch, 2020
+                @[@8, @9]: @[@(GBDeviceModeliPadPro11p2), @"iPad Pro 2nd Gen (11 inch, WiFi)", @(GBDeviceDisplay11pInch), @264],
+                @[@8, @10]: @[@(GBDeviceModeliPadPro11p2), @"iPad Pro 2nd Gen (11 inch, WiFi+Cellular)", @(GBDeviceDisplay11pInch), @264],
+
+                // iPad Pro 3nd Gen 12.9-inch, 2020
+                @[@8, @11]: @[@(GBDeviceModeliPadPro12p9Inch4), @"iPad Pro 4th Gen (12.9 inch, WiFi)", @(GBDeviceDisplay12p9Inch), @264],
+                @[@8, @12]: @[@(GBDeviceModeliPadPro12p9Inch4), @"iPad Pro 4th Gen (12.9 inch, WiFi+Cellular)", @(GBDeviceDisplay12p9Inch), @264]
             },
             @"iPod": @{
                 // 1st Gen
