@@ -72,6 +72,7 @@ typedef NS_ENUM(NSInteger, GBDeviceModel) {
     GBDeviceModeliPad5,
     GBDeviceModeliPad6,
     GBDeviceModeliPad7,
+    GBDeviceModeliPad8,
     GBDeviceModeliPod1,
     GBDeviceModeliPod2,
     GBDeviceModeliPod3,
