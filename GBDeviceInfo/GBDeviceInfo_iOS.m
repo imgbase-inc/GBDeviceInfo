@@ -226,12 +226,18 @@
                 @[@11, @6]: @[@(GBDeviceModeliPhoneXSMax), @"iPhone XS Max", @(GBDeviceDisplay6p5Inch), @458],
                 
                 // 11
-                @[@12, @1]: @[@(GBDeviceModeliPhone11), @"iPhone 11", @(GBDeviceDisplay6p1Inch), @458],
+                @[@12, @1]: @[@(GBDeviceModeliPhone11), @"iPhone 11", @(GBDeviceDisplay6p1Inch), @326],
                 @[@12, @3]: @[@(GBDeviceModeliPhone11Pro), @"iPhone 11 Pro", @(GBDeviceDisplay5p8Inch), @458],
                 @[@12, @5]: @[@(GBDeviceModeliPhone11ProMax), @"iPhone 11 Pro Max", @(GBDeviceDisplay6p5Inch), @458],
 
                 // SE (2nd)
-                @[@12, @8]: @[@(GBDeviceModeliPhoneSE2), @"iPhone SE (2nd)", @(GBDeviceDisplay4p7Inch), @326]
+                @[@12, @8]: @[@(GBDeviceModeliPhoneSE2), @"iPhone SE (2nd)", @(GBDeviceDisplay4p7Inch), @326],
+
+                // 12
+                @[@13, @1]: @[@(GBDeviceModeliPhone12Mini), @"iPhone 12 Mini", @(GBDeviceDisplay5p4Inch), @476],
+                @[@13, @2]: @[@(GBDeviceModeliPhone12), @"iPhone 12", @(GBDeviceDisplay6p1Inch), @460],
+                @[@13, @3]: @[@(GBDeviceModeliPhone12Pro), @"iPhone 12 Pro", @(GBDeviceDisplay6p1Inch), @458],
+                @[@13, @4]: @[@(GBDeviceModeliPhone12ProMax), @"iPhone 11 Pro Max", @(GBDeviceDisplay6p7Inch), @458],
             },
             @"iPad": @{
                 // 1
@@ -321,7 +327,10 @@
                 // iPad Air 3rd Gen, 2019
                 @[@11, @3]: @[@(GBDeviceModeliPadAir3), @"iPad Air 3rd Gen (10.5 inch, WiFi)", @(GBDeviceDisplay10p5Inch), @264],
                 @[@11, @4]: @[@(GBDeviceModeliPadAir3), @"iPad Air 3rd Gen (10.5 inch, WiFi+Cellular)", @(GBDeviceDisplay10p5Inch), @264],
-                
+
+                // iPad Air 4rd Gen, 2020
+                @[@13, @1]: @[@(GBDeviceModeliPadAir4), @"iPad Air 4rd Gen (10.9 inch, WiFi)", @(GBDeviceDisplay10p9Inch), @264],
+                @[@13, @2]: @[@(GBDeviceModeliPadAir4), @"iPad Air 4rd Gen (10.9 inch, WiFi+Cellular)", @(GBDeviceDisplay10p9Inch), @264],
 
                 // iPad Pro 3rd Gen 11-inch, 2018
                 @[@8, @1]: @[@(GBDeviceModeliPadPro11p), @"iPad Pro 3rd Gen (11 inch, WiFi)", @(GBDeviceDisplay11pInch), @264],
