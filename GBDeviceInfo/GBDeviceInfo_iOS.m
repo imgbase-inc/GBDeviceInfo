@@ -237,7 +237,7 @@
                 @[@13, @1]: @[@(GBDeviceModeliPhone12Mini), @"iPhone 12 Mini", @(GBDeviceDisplay5p4Inch), @476],
                 @[@13, @2]: @[@(GBDeviceModeliPhone12), @"iPhone 12", @(GBDeviceDisplay6p1Inch), @460],
                 @[@13, @3]: @[@(GBDeviceModeliPhone12Pro), @"iPhone 12 Pro", @(GBDeviceDisplay6p1Inch), @458],
-                @[@13, @4]: @[@(GBDeviceModeliPhone12ProMax), @"iPhone 11 Pro Max", @(GBDeviceDisplay6p7Inch), @458],
+                @[@13, @4]: @[@(GBDeviceModeliPhone12ProMax), @"iPhone 12 Pro Max", @(GBDeviceDisplay6p7Inch), @458],
             },
             @"iPad": @{
                 // 1
